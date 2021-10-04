@@ -17,6 +17,8 @@ Entered by Paul Kos
 
 - [About Switch Access for Android](https://support.google.com/accessibility/android/answer/6122836)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 2:  Build an External Scan Mode System
@@ -34,6 +36,8 @@ Entered by Paul Kos
 -  [external scan mode system example](https://youtu.be/Luvadk9oKYs?t=238) 
 
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 3: Home Automation Systems Accessible Control
@@ -50,6 +54,9 @@ Entered by Paul Kos
 ### Related Links: 
  Home Automation for Accessibility
 -  [Home Automation for Accessibility](https://www.ideas.org.au/blog/living-smart.html.html) 
+
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 4: Accessible Microbit for Vision Impaired Users
@@ -65,6 +72,9 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  []() 
+
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 5:  No-Hands phone/tablet/laptop control
@@ -80,6 +90,8 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  []()
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -97,6 +109,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  [A good example of the power of a muxed-control-device:  Chris Young's Ultimate Remote](https://www.facebook.com/ATMakersOrg/videos/chris-youngs-ultimate-remote-tour/370725060183181/)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 7:  Braille IO
@@ -112,6 +126,8 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  [Dot.inc's Braille cells that we are building our module's with:](https://dotincorp.com/page/32?gbn2=Dot+Cell)
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -129,6 +145,8 @@ Entered by Paul Kos - from Microsoft CELA / Outreach
 ### Related Links: 
 -  []()
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 9: Leverage Azure for Accessibility
@@ -144,6 +162,8 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  []()
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -164,6 +184,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  [It's Time for Microsoft to Update the Xbox Adaptive Controller: 9 Things We Want](https://sea.pcmag.com/gaming/45186/its-time-for-microsoft-to-update-the-xbox-adaptive-controller-9-things-we-want)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 11:  Make Flight Simulator more Accessible
@@ -181,6 +203,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  [ Microsoft Israel is Already helping in this space - can we add any value?](https://news.microsoft.com/europe/features/wheels-up-accessible-cockpit-for-flight-simulator-takes-wing/)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 12:  Hack Minecraft for Accessibility
@@ -197,6 +221,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  [Engage with the "Minecraft - Beyond Sight Next" team.](https://garagehackbox.azurewebsites.net/hackathons/2356/projects/103333)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 13:  Control a toy with relays/switches
@@ -212,6 +238,8 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  [Makers Making Change has a lot of related hacks](https://www.makersmakingchange.com/assistive-devices/?_sft_type=adapted-toys)
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -231,6 +259,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  []()
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 15:  Address the Warfighter Engaged challenge
@@ -247,6 +277,8 @@ Entered by Paul Kos
 ### Related Links: 
 -  [Warfighter Engaged Modular Accessible Joystick Hack
 ](https://garagehackbox.azurewebsites.net/hackathons/2356/projects/104137)
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -266,6 +298,8 @@ Entered by Paul Kos
 -  [Adapt ANY Keyboard & Mouse for RSI/Limb Different Use
 ](https://garagehackbox.azurewebsites.net/hackathons/2356/projects/105650)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 17:  Make a Custom Gaming Pad for PC /Phone/XBox
@@ -282,6 +316,8 @@ Entered by Paul Kos
 
 ### Related Links: 
 -  []()
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -301,6 +337,8 @@ Entered by Paul Kos - Project is from Crossing Wang (CELA) and Youren Foundation
 
 ### Related Links: 
 -  [Beacons to Guide Blind People Home](https://garagehackbox.azurewebsites.net/hackathons/2356/projects/105692)
+
+### Discussion:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -335,6 +373,8 @@ o	[Link to Search “abilityhack” in Hackathon 2020](https://garagehackbox.azu
 o	[Link to Search “abilityhack” in Hackathon 2021](https://garagehackbox.azurewebsites.net/hackathons/oneweek/2021/projects/tile?search=abilityhack&offset=0)
 
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 20:  Help Hack Project "MagTrack: Alternative Controller for Gaming using Head, Face & Tongue Gestures"
@@ -352,13 +392,14 @@ entered by Paul Kos
 ### Related Links: 
 -  [MagTrack: Alternative Controller for Gaming using Head, Face & Tongue Gestures](https://garagehackbox.azurewebsites.net/hackathons/2356/projects/104335)
 
+### Discussion:
+
 -------------------------------------------------------------------------------------------------------------
 
 ## Challenge 21:  (MMC Challenge) Many users need Thin / Small Trackpad that supports Gestures
 
 ### Background:
 There are some people that have limited dexterity and wrist and arm movements.  Normally when you use a track pad you are using a combination of movements in your fingers, wrists and to some degree your forearms. There are some users that only have limited range of motion in the plane parallel the surface of the track pad (can move their fingers forward and back and side to side) and their range of motion is  one half to one third of the surface of a typical track pad. Unfortunately they have problems elevating their fingers and wrist in the vertical plane. So they find it difficult to deal with even the typical track pad on a laptop as the thickness of the laptop is a barrier. With the limited range of motion also comes typically a lack of strength.
-
 
 
 ### Problem / Challenge
@@ -479,7 +520,6 @@ Entered by Paul Kos - from Minki @Hackability
 -  []()
 
 ### Discussion:
-
 
 -------------------------------------------------------------------------------------------------------------
 
